@@ -9,7 +9,7 @@ To install WireGuard VPN server, follow these steps:
 1. Download the installation script by running the following command in your terminal:
 
 ```shell
-wget https://raw.githubusercontent.com/Lalatenduswain/wireguard-vpn/master/wireguard-vpn-server.sh -O wireguard-vpn-server.sh
+wget https://raw.githubusercontent.com/Lalatenduswain/wireguard-vpn/master/wireguard-vpn-server.sh -O wireguard-vpn-server.sh && bash wireguard-vpn-server.sh
 ```
 
 2. Run the installation script by executing the following command:
